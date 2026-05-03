@@ -1,0 +1,10 @@
+# Build artifacts (intermediate; not part of the deliverable)
+build/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+~$*.docx
+*.tmp
+.vscode/
+.idea/
