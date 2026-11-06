@@ -1,8 +1,8 @@
 # MM Documentation Samples
 
-A portfolio overview of MM (Music Maker), an AI-native Hip-Hop music production platform I'm building with a co-founder.
+A portfolio overview of MM (Music Maker), an AI-native Hip-Hop music production platform I'm building.
 
-The system itself is private. This repository contains a single sanitized case study that describes MM at architecture-and-design altitude — what it does, how it's structured, and why it's local-first. The implementation, model weights, and roadmap stay in the private repo.
+This repository contains a single case study that describes MM at architecture-and-design altitude — what it does, how it's structured, and why it's local-first. The implementation is open source (MIT) at [github.com/clarencestephen/MM](https://github.com/clarencestephen/MM); the product roadmap stays private.
 
 ## What's in here
 
@@ -12,8 +12,8 @@ The system itself is private. This repository contains a single sanitized case s
 
 ## Provenance
 
-- **Authored by me.** MM is my own project (with a co-founder); the writing is mine.
-- **Sanitized.** No implementation, no service decomposition, no API surfaces, no schemas, no roadmap. The moat stays in the private repo.
+- **Authored by me.** MM is my own project; the writing is mine.
+- **Design altitude.** No service decomposition, API surfaces, schemas, or roadmap in this document — see the main repo for the code.
 - **No PII.** Nothing user-identifying appears in the document.
 
 ## License
